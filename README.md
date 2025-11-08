@@ -4,13 +4,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1AF72E&center=true&vCenter=true&width=700&lines=Ethical+Hacker+from+Tanzania;Bug+Bounty+Hunter;CTF+Player;Web+App+%7C+Mobile+%7C+API+Security)](https://git.io/typing-svg)
 
 ---
-
 <div align="center">
     <img src="https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif" width="300" alt="Cybersecurity Animation">
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fazo28&theme=react-dark&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF" alt="Activity Graph"/>
 </div>
 
 ---
@@ -57,31 +52,9 @@
 </p>
 
 ---
-
-### 🧭 Quick workflow notes
-- **Footprinting:** `amass`, `subfinder`, `sublist3r`, `shodan` → map subdomains & assets.  
-- **Port & service scan:** `masscan` → `nmap` for deep enumeration.  
-- **Directory & fuzzing:** `ffuf`, `dirsearch`, `gobuster` to find hidden endpoints.  
-- **Vuln scanning / templates:** `nuclei` + community templates for known patterns.  
-- **Manual test / exploit:** `Burp Suite` / `ZAP` (+ extensions like autorize, s3-buckets, cf-checker).  
-- **SQLi / RCE checks:** `sqlmap` + manual payload crafting.  
-- **Automation & reporting:** `recon-ng`, custom scripts, then tidy reports (screenshots, PoC, remediation steps).
-
+IF IT WORKS DON'T TOUCH IT
 ---
-
-## ⚙️ Bug Hunting Tools 
-
-- **Burp Suite (Pro/Community)** — intercept, repeater, intruder, extensions for automation.  
-- **OWASP ZAP** — free alternative for automated scans and spiders.  
-- **Amass / Subfinder / Sublist3r** — domain & subdomain discovery.  
-- **Nmap / Masscan** — fast port scanning and service fingerprinting.  
-- **Nuclei** — template-based vulnerability scanner (fast and scriptable).  
-- **FFUF / Gobuster / Dirsearch** — content discovery & fuzzing for hidden endpoints.  
-- **SQLMap** — automated SQL injection detection & exploitation (use ethically).  
-- **Nikto / Wappalyzer** — quick webserver checks and tech fingerprinting.  
-- **Recon-ng / Sherlock** — OSINT & user enumeration helpers.  
-- **Custom Scripts (python/bash)** — glue & automation; store PoC generators & report templates in repos.
-
+Backed Dev
 ---
 
 ## 💻 Tech Stack & OS (short)
@@ -125,6 +98,11 @@
   <a href="https://twitter.com/Fazo28_tz"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
   <a href="mailto:45technologylab@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </p>
+
+---
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fazo28&theme=react-dark&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF" alt="Activity Graph"/>
+</div>
 
 ---
 
