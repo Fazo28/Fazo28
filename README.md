@@ -19,10 +19,7 @@
 
 ## 🔎 Bug Hunting Tools & Workflow
 
-> *Shown left → reconnaissance / discovery → exploitation → verification / reporting → automation*
-
 <p align="center">
-  <!-- Recon & Discovery badges -->
   <img alt="Amass" src="https://img.shields.io/badge/Amass-000000?style=for-the-badge&logo=owasp&logoColor=white" />&nbsp;
   <img alt="Subfinder" src="https://img.shields.io/badge/Subfinder-0A84FF?style=for-the-badge&logo=search&logoColor=white" />&nbsp;
   <img alt="Masscan" src="https://img.shields.io/badge/Masscan-FF4500?style=for-the-badge&logo=scan&logoColor=white" />&nbsp;
@@ -38,21 +35,17 @@
 </p>
 
 <p align="center">
-  <!-- Proxy / Manual Testing badges -->
   <img alt="Burp Suite" src="https://img.shields.io/badge/Burp_Suite-FF8C00?style=for-the-badge&logo=port%20swigger&logoColor=white" />&nbsp;
   <img alt="OWASP ZAP" src="https://img.shields.io/badge/OWASP_ZAP-0A8EAC?style=for-the-badge&logo=owasp&logoColor=white" />&nbsp;
   <img alt="Burp Extensions" src="https://img.shields.io/badge/Burp_Ext-6A5ACD?style=for-the-badge&logo=extensions&logoColor=white" />
 </p>
 
 <p align="center">
-  <!-- Automation & Reporting badges -->
   <img alt="Recon-ng" src="https://img.shields.io/badge/Recon--ng-0066CC?style=for-the-badge&logo=python&logoColor=white" />&nbsp;
   <img alt="Sherlock" src="https://img.shields.io/badge/Sherlock-1F8ACB?style=for-the-badge&logo=github&logoColor=white" />&nbsp;
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
----
-IF IT WORKS DON'T TOUCH IT
 ---
 Backed Dev
 ---
@@ -73,20 +66,7 @@ Backed Dev
   <a href="https://tryhackme.com/p/yourprofile" target="_blank"><img src="https://img.shields.io/badge/TryHackMe-0B57A4?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"/></a>
   <a href="https://www.hackthebox.com/profile/yourprofile" target="_blank"><img src="https://img.shields.io/badge/HackTheBox-000000?style=for-the-badge&logo=hackthebox&logoColor=white" alt="HackTheBox"/></a>
   <a href="https://hackerone.com/yourprofile" target="_blank"><img src="https://img.shields.io/badge/HackerOne-00E582?style=for-the-badge&logo=hackerone&logoColor=white" alt="HackerOne"/></a>
-  <a href="https://bugcrowd.com/yourprofile" target="_blank"><img src="https://img.shields.io/badge/Bugcrowd-0B3B7A?style=for-the-badge&logo=bugcrowd&logoColor=white" alt="BugCrowd"/></a>
-</p>
-
-> Replace the `yourprofile` placeholders above with your real profile slugs to show live badges.
-
----
-
-## 📁 Projects & Writeups
-- **CTF writeups** — `/ctf-writeups` (create a repo and add challenge writeups with tags: web, pwn, crypto, forensics).  
-- **Bug bounty templates** — `/bounty-templates` (PoC templates, report templates, Burp macros).  
-- **Recon toolkit** — `/recon-scripts` (personal scripts: subdomain enumerator, unified scanner).
-
-> Add links to these repos below (they will render on your GitHub profile as links to repositories).
-
+ 
 ---
 
 ## 🌐 Connect with Me
