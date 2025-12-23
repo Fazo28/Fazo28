@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Fazo  
 ### Ethical Hacker | Bug Bounty Hunter | CTF Player
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1AF72E&center=true&vCenter=true&width=700&lines=Ethical+Hacker+from+Tanzania;Bug+Bounty+Hunter;CTF+Player;Web+App+%7C+Mobile+%7C+API+Security)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1AF72E&center=true&vCenter=true&width=700&lines=Ethical+Hacker;Bug+Bounty+Hunter;CTF+Player;Web+App+%7C+Mobile+%7C+API+Security)](https://git.io/typing-svg)
 
 ---
 <div align="center">
@@ -16,41 +16,10 @@
 </p>
 
 ---
-
-## 🔎 Bug Hunting Tools & Workflow
-
-<p align="center">
-  <img alt="Amass" src="https://img.shields.io/badge/Amass-000000?style=for-the-badge&logo=owasp&logoColor=white" />&nbsp;
-  <img alt="Subfinder" src="https://img.shields.io/badge/Subfinder-0A84FF?style=for-the-badge&logo=search&logoColor=white" />&nbsp;
-  <img alt="Masscan" src="https://img.shields.io/badge/Masscan-FF4500?style=for-the-badge&logo=scan&logoColor=white" />&nbsp;
-  <img alt="Nmap" src="https://img.shields.io/badge/Nmap-CC0000?style=for-the-badge&logo=nmap&logoColor=white" />
-</p>
-
-<p align="center">
-  <!-- Scanning & Fuzzing badges -->
-  <img alt="Nuclei" src="https://img.shields.io/badge/Nuclei-111827?style=for-the-badge&logo=contentful&logoColor=white" />&nbsp;
-  <img alt="FFUF" src="https://img.shields.io/badge/FFUF-2D8CFF?style=for-the-badge&logo=ffmpeg&logoColor=white" />&nbsp;
-  <img alt="Dirsearch" src="https://img.shields.io/badge/Dirsearch-0A0A0A?style=for-the-badge&logo=linux&logoColor=white" />&nbsp;
-  <img alt="SQLMap" src="https://img.shields.io/badge/SQLMap-4B8BBE?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
-
-<p align="center">
-  <img alt="Burp Suite" src="https://img.shields.io/badge/Burp_Suite-FF8C00?style=for-the-badge&logo=port%20swigger&logoColor=white" />&nbsp;
-  <img alt="OWASP ZAP" src="https://img.shields.io/badge/OWASP_ZAP-0A8EAC?style=for-the-badge&logo=owasp&logoColor=white" />&nbsp;
-  <img alt="Burp Extensions" src="https://img.shields.io/badge/Burp_Ext-6A5ACD?style=for-the-badge&logo=extensions&logoColor=white" />
-</p>
-
-<p align="center">
-  <img alt="Recon-ng" src="https://img.shields.io/badge/Recon--ng-0066CC?style=for-the-badge&logo=python&logoColor=white" />&nbsp;
-  <img alt="Sherlock" src="https://img.shields.io/badge/Sherlock-1F8ACB?style=for-the-badge&logo=github&logoColor=white" />&nbsp;
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
----
 Backed Dev
 ---
 
-## 💻 Tech Stack & OS (short)
+## 💻 Tech Stack & OS
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />&nbsp;
   <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="bash" />&nbsp;
@@ -61,13 +30,6 @@ Backed Dev
 
 ---
 
-## 🔗 Bug Bounty Profiles
-<p align="center">
-  <a href="https://tryhackme.com/p/yourprofile" target="_blank"><img src="https://img.shields.io/badge/TryHackMe-0B57A4?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"/></a>
-  <a href="https://www.hackthebox.com/profile/yourprofile" target="_blank"><img src="https://img.shields.io/badge/HackTheBox-000000?style=for-the-badge&logo=hackthebox&logoColor=white" alt="HackTheBox"/></a>
-  <a href="https://hackerone.com/yourprofile" target="_blank"><img src="https://img.shields.io/badge/HackerOne-00E582?style=for-the-badge&logo=hackerone&logoColor=white" alt="HackerOne"/></a>
- 
----
 
 ## 🌐 Connect with Me
 <p align="center">
