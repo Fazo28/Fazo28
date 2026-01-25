@@ -16,3 +16,8 @@
 </p>
 ---
 
+## contact me
+<p align="center">
+<p>https://t.me/iamfaz0</p>
+https://wa.me/+255622048500
+</p>
